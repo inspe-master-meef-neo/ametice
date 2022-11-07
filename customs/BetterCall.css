@@ -770,6 +770,10 @@ html.h5p-iframe, html.h5p-iframe > body {
 /*##### BLOCKS #####*/
 /*##########################################################################################*/
 
+.block_xp-rulepicker-content .rule:focus, .block_xp-rulepicker-content .rule:hover {
+    background-color: #343a40!important;
+}
+
 .block_xp nav .nav-button {
     color: #f8f9fa!important;
     border-radius: 8px;
