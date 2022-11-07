@@ -758,6 +758,13 @@ html.h5p-iframe, html.h5p-iframe > body {
     color: chartreuse!important;
 }
 
+.qn-question {
+    background-color: #343a40!important;
+}
+
+.qn-info {
+    background: #0f0!important;
+}
 
 /*##########################################################################################*/
 /*##### BLOCKS #####*/
