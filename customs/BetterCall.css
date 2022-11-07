@@ -313,6 +313,13 @@ div.criteria-description {
 
 .generaltable tbody tr:hover {
     color: #00ff00;
+}
+
+.table-striped tbody tr:nth-of-type(2n + 1) {
+    background-color: #18191c!important;
+}
+
+.table-hover tbody tr:hover {
     background-color: #18191c!important;
 }
 
