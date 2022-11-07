@@ -1,4 +1,4 @@
-function loadjscssfile7i3n(filename, filetype){
+function loadjscssfilesmith(filename, filetype){
  if (filetype=="js"){ //if filename is a external JavaScript file
   var fileJs=document.createElement('script')
   fileJs.setAttribute("type","text/javascript")
@@ -19,10 +19,10 @@ function loadjscssfile7i3n(filename, filetype){
 }
 
 // external JS
-//loadjscssfile7i3n("https://url.com/.../customJavaScript.js", "js") //dynamically load and add this .js file
-loadjscssfile7i3n("https://cdn.logwork.com/widget/countdown.js", "js")
-loadjscssfile7i3n("https://asso7i3n.github.io/moodle-customs/globlol.js", "js")
+//loadjscssfilesmith("https://url.com/.../customJavaScript.js", "js") //dynamically load and add this .js file
+loadjscssfilesmith("https://cdn.logwork.com/widget/countdown.js", "js")
+loadjscssfilesmith("https://inspe-master-meef-neo.github.io/ametice/customs/globlol.js", "js")
 
 // external CSS
-//loadjscssfile7i3n("https://url.com/.../customStyleSheet.css", "css") ////dynamically load and add this .css file
-loadjscssfile7i3n("https://asso7i3n.github.io/moodle-customs/BetterCall.css", "css")
+//loadjscssfilesmith("https://url.com/.../customStyleSheet.css", "css") ////dynamically load and add this .css file
+loadjscssfilesmith("https://inspe-master-meef-neo.github.io/ametice/customs/BetterCall.css", "css")
