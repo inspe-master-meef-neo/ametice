@@ -14,7 +14,35 @@ section.block h5 {
     color: #ffffff!important;
 }
 
+.simplesearchform .btn-submit {
+    border-color: #202225;
+}
+.simplesearchform .btn-submit {
+    background-color: #202225;
+}
 
+div.editor_atto_toolbar {
+    background: #36393f;
+    min-height: 35px;
+    border: 1px solid #36393f;
+}
+
+.table-striped tbody tr:nth-of-type(2n + 1) {
+    background-color: #36393f !important;
+}
+
+.form-autocomplete-suggestions {
+    background-color: #18191c;
+    border: 1px solid #18191c;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 5px;
+}
+
+a.dimmed, a.dimmed:link, a.dimmed:visited, a.dimmed_text, a.dimmed_text:link, a.dimmed_text:visited, .dimmed_text, .dimmed_text a, .dimmed_text a:link, .dimmed_text a:visited, .usersuspended, .usersuspended a, .usersuspended a:link, .usersuspended a:visited, .dimmed_category, .dimmed_category a {
+    color: #f8f9fa;
+    background-color: #000000;
+    font-weight: 700;
+}
 
 body {
 	background-color: #2f3136!important ;
