@@ -35,6 +35,11 @@ div.editor_atto_toolbar {
     color: #00ff00!important;
 }
 
+.path-grade-report-grader .gradeparent table, .path-grade-report-grader .gradeparent .cell {
+    border-color: #42464d;
+    background-color: #1d2125!important;
+}
+
 .form-autocomplete-suggestions {
     background-color: #18191c;
     border: 1px solid #18191c;
@@ -356,10 +361,6 @@ div.criteria-description {
 
 .generaltable tbody tr:hover {
     color: #00ff00;
-}
-
-.table-striped tbody tr:nth-of-type(2n + 1) {
-    background-color: #18191c!important;
 }
 
 .table-hover tbody tr:hover {
