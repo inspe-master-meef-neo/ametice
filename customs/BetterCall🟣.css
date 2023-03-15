@@ -1,0 +1,31 @@
+/* filter codes --> containing the background */
+
+    .format-tiles li.activity.subtile .activityname h4 {
+    font-size: 1em;
+    font-weight: bold!important;
+    }
+
+.fc-categorycards {
+    background-size: contain!important;
+}
+
+.card-img-top {
+    background-size: contain!important;
+}
+
+.block_completion_progress .progressBarCell.futureNotCompleted {
+    background-color: #5a0cb9!important;
+}
+
+.block_completion_progress .progressBarCell.completed {
+    background-color: #00ff00!important;
+}
+
+.tag_cloud {
+    text-align: center;
+    background-color: #343a40;
+}
+
+.tag_cloud a {
+    color: white;
+}
