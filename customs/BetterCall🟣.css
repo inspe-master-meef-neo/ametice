@@ -213,16 +213,6 @@
     padding: 1.5rem!important
 }
 
-
-.block,
-.card {
-    background: #fff;
-    border-width: 0;
-    border-radius: .25rem;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, .05);
-    margin-bottom: 1.5rem
-}
-
 .mb-4,
 .my-4 {
     margin-bottom: 1.5rem!important
@@ -360,11 +350,6 @@ tl-item.active .tl-dot:before {
 
 body{
     background: #f5f5f5;
-}
-
-.container{
-    
-    margin-top:200px;
 }
 
 /* Bootstrap 4 Block Quote container */
