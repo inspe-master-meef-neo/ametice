@@ -379,6 +379,14 @@ tl-item.active .tl-dot:before {
         bottom: 4em
     }
 
+    .blockquote-custom-title {
+        padding: 0.1em 1em 0.2em 1em !important;
+        margin: 0 !important;
+        border-radius: 2em;
+        position: absolute;
+        top: -1em;
+    }
+
       .carousel-indicators li {
           border: none;
           background: #ccc;
