@@ -1,9 +1,9 @@
 .collapsible-link::before {
-    background: #fff;
+    background: #fff!important;
 }
 
 .collapsible-link::after {
-    background: #fff;
+    background: #fff!important;
 }
 
 /* Flipping cards
