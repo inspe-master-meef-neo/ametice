@@ -1,3 +1,11 @@
+.collapsible-link::before {
+    background: #fff;
+}
+
+.collapsible-link::after {
+    background: #fff;
+}
+
 /* Flipping cards
 https://www.codeply.com/go/roydoXgaLr/bootstrap-4-flip-cards */
 
