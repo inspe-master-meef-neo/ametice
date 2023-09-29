@@ -1,3 +1,7 @@
+#back-to-top {
+    z-index: 1000!important;
+}
+
 .collapsible-link::before {
     background: #fff!important;
 }
