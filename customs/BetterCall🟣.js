@@ -21,6 +21,7 @@ function NEOCustoms(filename, filetype){
 // external CSS
 //loadjscssfilesmith("https://url.com/.../customStyleSheet.css", "css") ////dynamically load and add this .css file
 NEOCustoms("https://inspe-master-meef-neo.github.io/ametice/customs/BetterCall🟣.css", "css")
+NEOCustoms("https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.1-web/css/all.min.css", "css")
 
 // external JS
 // NEOCustoms("https://url.com/.../customJavaScript.js", "js") //dynamically load and add this .js file
